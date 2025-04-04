@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Dkhoa, a Next.js Developer based in VietNam.
+            Hi! I&apos;m Dkhoa, a Front End Developer based in VietNam.
           </p>
 
           <a href="#about">

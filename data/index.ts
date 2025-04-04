@@ -72,27 +72,27 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Store It",
+    des: "A storage management and file sharing platform that lets users effortlessly upload, organize, and share files.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.svg", "/fm.svg"],
+    link: "https://store-it-dkhoahappy.vercel.app/sign-in",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "YC-Directory",
+    des: "Pitch,Vote and Grow Startups with YC-Directory. A platform for startups to pitch their ideas and get feedback.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/sanity.svg", "/c.svg"],
+    link: "https://yc-directory-mu-black.vercel.app/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "AI Mock Interview",
+    des: "An AI-powered mock interview platform that helps users prepare for job interviews with personalized feedback.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/vapi.svg", "/firebase.svg"],
+    link: "https://ai-mock-interview-bice.vercel.app/",
   },
   {
     id: 4,
@@ -100,38 +100,38 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://apple-i-phone-zeta.vercel.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Dkhoa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dkhoa's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dkhoa is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Dkhoa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dkhoa's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dkhoa is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Dkhoa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dkhoa's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dkhoa is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Dkhoa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dkhoa's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dkhoa is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Dkhoa was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Dkhoa's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Dkhoa is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -140,9 +140,9 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "fpt university",
+    img: "/fpt.svg",
+    nameImg: "/fptName.png",
   },
   {
     id: 2,
@@ -158,9 +158,9 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "sendo",
+    img: "/sendo.svg",
+    nameImg: "/sendoName.png",
   },
   {
     id: 5,
@@ -180,7 +180,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev - Fresher",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
@@ -208,7 +208,7 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/insta.svg",
   },
   {
     id: 3,
